@@ -22,7 +22,7 @@ main:
     
   - title: "CV"
     # url: /cv/
-    url: files/CV_Hojung_Yu.pdf
+    url: /files/CV_Hojung_Yu.pdf
 
   # - title: "Guide"
   #   url: /markdown/
