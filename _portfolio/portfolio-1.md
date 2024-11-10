@@ -1,7 +1,7 @@
 ---
 title: "Housing Affordability Map
 "
-excerpt: "How many years should be spent to buy a house?"<br/><img src='/images/housingmap.png', width ="500", height = "300">
+excerpt: "How many years should be spent to buy a house?"<br/><img src='/images/housingmap.png'>
 collection: portfolio
 ---
 *Geovisualization and Geovisual Analytics Software, Georgia Tech, 2024* <br>
