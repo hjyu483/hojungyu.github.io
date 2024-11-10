@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Hi there👋, I am Hojung Yu!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
