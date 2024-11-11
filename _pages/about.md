@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+<br>
+<br>
 
 Bio
 ======
@@ -16,7 +18,7 @@ Hi, I am Hojung Yu, a first-year student in the Master of City and Regional Plan
 
 My research interests focus on *urban visualization and analytics.* Data visualization can help citizens develop creative insights or solidify existing ideas, fostering diverse dialogues. I believe design tools have immense power to bridge citizens' ideas and beliefs.<br>
 
-Before enrolling at Georgia Tech, I studied architecture at Yonsei University. I also worked as an urban planner and designer at [Junglim Architecture](http://www.junglim.com/) for three years. With a strong understanding of how urban settings influence human behavior, I am now more interested in examining how citizens interpret cities.
+Before enrolling at Georgia Tech, I studied architecture at Yonsei University. I also worked as an urban planner and designer at Junglim Architecture for three years. With a strong understanding of how urban settings influence human behavior, I am now more interested in examining how citizens interpret cities.
 
 <br>
 
