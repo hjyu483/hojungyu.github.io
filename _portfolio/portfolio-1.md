@@ -1,13 +1,13 @@
 ---
 title: "Housing Affordability Map
 "
-excerpt: "How many years should be spent to buy a house?<br/><img src='https://hjyu483.github.io/images/housingmap.png'>"
+excerpt: "How many years should be spent to buy a house?<br/><img src='https://github.com/hjyu483/hojungyu.github.io/blob/master/images/housingmap.png?raw=true'>"
 collection: portfolio
 ---
 *Geovisualization and Geovisual Analytics Software, Georgia Tech, 2024* <br>
 
 <!-- ![images/housingmap](/images/housingmap.png){: .align-center width="300px"} -->
-<img src = 'https://github.com/hjyu483/hojungyu.github.io/blob/master/images/housingmap.png?raw=true' width = '500' height = '300'>
+<img src = 'https://github.com/hjyu483/hojungyu.github.io/blob/master/images/housingmap.png?raw=true'>
 
 The initial question was: *"How many years should be take to buy a single house?"* <br>
 To address this, I created a housing affordability index, allowing users to observe housing disparities. The analysis was conducted at the county level, using median household income and median housing value to calculate the index. The housing affordability index was simply created by dividing the median housing value by the median income.

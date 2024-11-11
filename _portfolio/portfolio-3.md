@@ -1,8 +1,9 @@
 ---
 title: "Euiwang, Gunpo and Ansan New Town Masterplan"
-excerpt: "<br/><img src='/images/부분1.jpg'>"
+excerpt: "<br/><img src='https://github.com/hjyu483/hojungyu.github.io/blob/master/images/부분1.jpg?raw=true'>"
 collection: portfolio
 ---
-![배치](/images/배치도.jpg)
+*Professional Works, Junglim Architecture, 2023-2024*
 
-*Professional Works, Junglim Architecture, 2023-2024* <br>
+<img src = 'https://github.com/hjyu483/hojungyu.github.io/blob/master/images/배치도.jpg?raw=true'>
+
