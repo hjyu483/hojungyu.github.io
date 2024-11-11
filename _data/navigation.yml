@@ -11,8 +11,6 @@ main:
   - title: "CV"
     # url: /cv/
     url: /files/CV_Hojung_Yu.pdf
-<<<<<<< Updated upstream
-=======
 
   # - title: "Publications"
   #   url: /publications/
@@ -26,7 +24,6 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
->>>>>>> Stashed changes
 
   # - title: "Guide"
   #   url: /markdown/
