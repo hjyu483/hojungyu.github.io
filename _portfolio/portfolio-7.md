@@ -16,4 +16,4 @@ We are now living in AI and Virtual Era. As virtual spaces increasingly take on 
 My design concept centered around this question: Is it possible to bridge the gap between virtual and physical spaces? Rather than aiming to find a perfect coexistence, I sought to identify and visualize the precarious balance between virtuality and reality.
 
 
-<!--이 공간은 한 때 게임 CD를 사려는 사람들로 북적였었지만 현재는 기능을 잃은 체 낙후된 환경을 경험하고 있다. 가상 공간으로 인한 현실 공간의 낙후는 현재 격화되고 있는 가상과 현실의 이분법적인 인지 공간을 시사한다.>
+<!--이 공간은 한 때 게임 CD를 사려는 사람들로 북적였었지만 현재는 기능을 잃은 체 낙후된 환경을 경험하고 있다. 가상 공간으로 인한 현실 공간의 낙후는 현재 격화되고 있는 가상과 현실의 이분법적인 인지 공간을 시사한다.--!>
