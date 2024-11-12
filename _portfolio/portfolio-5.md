@@ -1,5 +1,5 @@
 ---
-title: "2022 Young Architects Fellowship Program"
+title: "Examining How the Circular City Concept Was Realized in the Buiksloterham Urban Renewal Masterplan"
 excerpt: "<br/><img src='https://github.com/hjyu483/hojungyu.github.io/blob/master/images/young_architects.png?raw=true'>"
 collection: portfolio
 ---
@@ -9,9 +9,5 @@ collection: portfolio
 <img src = 'https://github.com/hjyu483/hojungyu.github.io/blob/master/images/SoilRemediation_00.png?raw=true'>
 <img src = 'https://github.com/hjyu483/hojungyu.github.io/blob/master/images/young_architects_2.png?raw=true'>
 
-The Young Architects Fellowship program included an overseas field research trip, during which we investigated the soil-regeneration master plan in Buiksloterham, particularly focusing on the De Ceuvel area. Buiksloterham had been used for industrial purposes for about 100 years before being reclaimed and left vacant. Our research involved a desk review and interviews with stakeholders involved in the Buiksloterham project.
-
-Through this investigation, we observed how the pilot project’s soil purification concept evolved into a comprehensive master plan. Using insights gained from this study, we proposed an advanced architectural concept. We explored the relationship between existing land conditions and architecture from the perspective of sustainable soil ecosystems, considering how architectural approaches can contribute to sustainable soil remediation and reuse.
-
-Examining soil regeneration from a sectional perspective offered new possibilities for reimagining the use of contaminated sites, allowing for the co-existence of social activities and environmental restoration.
-
+The Young Architects Fellowship program is an annual research program for young architects. Our research focused on Buiksloterham Urban Renewal Masterplan, analyzing how the concept a *circular city* was realized in this visionary plan. Through qualitative research-including desk review, site visits and interviews-we observed the relationship between existing land conditions and design guidelines, exploring how innovative sustainable approaches can contribute to soil remediation and land reuse.
+Additionally, this ambitious plan could not have succeeded without active public engagement from the outset. De Ceuvel, a pilot project planned by public officials and then operated by private associations, along with Schoonship, an experimental circular neighborhood, served as sources of inspiration for the development of Buiksloterham's circular city concept.
