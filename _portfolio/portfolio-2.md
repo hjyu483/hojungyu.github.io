@@ -1,6 +1,6 @@
 ---
 title: "Health Index Map"
-excerpt: "Health index and the location of hospital<br/><img src='https://github.com/hjyu483/hojungyu.github.io/blob/master/images/linking2d_3d.png?raw=true'>"
+excerpt: "<br/><img src='https://github.com/hjyu483/hojungyu.github.io/blob/master/images/linking2d_3d.png?raw=true'>"
 collection: portfolio
 ---
 *Course Work, Intro to GIS, Georgia Tech, 2024* <br>
