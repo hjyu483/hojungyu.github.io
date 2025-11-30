@@ -21,6 +21,6 @@ Before enrolling at Georgia Tech, I studied architecture at Yonsei University. I
 
 <br>
 
-Technical Skills
+<!-- Technical Skills
 ======
-**Python, R, ArcGis Pro, Rhinoceros 3D, Grasshopper, SketchUp, AutoCad, Adobe Photoshop, Adobe Illustrator, Adobe Indesign**
+**Python, R, ArcGis Pro, Rhinoceros 3D, Grasshopper, SketchUp, AutoCad, Adobe Photoshop, Adobe Illustrator, Adobe Indesign** -->
